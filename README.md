@@ -7,6 +7,6 @@ Database](http://www.consumerfinance.gov/complaintdatabase/). This database is a
 
 * The Consumer Complaints notebook can be viewed on GitHub or downloaded to the users computer.
 * Before the user can view the Consumer Complaints notebook on their computer, the user must first clone the consumer-complaints repo onto their computer. The user must have Python 3 installed.
-* To properly run the notebook, the contents of requirements.txt must be installed in the folder the notebook will be running from.
+* To properly run the program, the contents of requirements.txt must be installed.
   * After navigating to the folder containing `consumer-complaints.ipynb` and `complaints_dec_2014.csv`, enter `pip install -r requirements.txt` on the command-line to download the contents of requirements.txt.
 * The user can then enter `ipython notebook consumer-complaints.ipynb` on the command-line to view the Consumer Complaints notebook.
